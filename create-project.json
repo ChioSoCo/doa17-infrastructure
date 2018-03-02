@@ -1,12 +1,12 @@
 {
-  "name": "ChioSoCo-project",
+  "name": "chiosoco-project",
   "source": {
     "type": "S3",
     "location": "doa17-application/codebuild.zip"
   },
   "artifacts": {
     "type": "S3",
-    "location": "doa17-ChioSoCo",
+    "location": "doa17-chiosoco",
     "packaging": "ZIP",
     "name": "WebAppOutputArtifact.zip"
   },
